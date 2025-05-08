@@ -25,3 +25,19 @@ footer{
     height: 30px;
 
 }
+
+.searchButton{
+
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: rgb(99, 225, 223);
+
+}
+.country{
+    text-align: center;
+    background-color: rgb(178, 243, 243);
+    padding: 20px;
+}
