@@ -6,7 +6,7 @@ header{
 
 footer{
     background-color: #333;
-    color:white;
+    color:rgb(223, 168, 168);
     padding:20px 0;
     text-align: center;
 }
@@ -33,11 +33,11 @@ footer{
     margin-bottom: 20px;
     width: 100px;
     height: 30px;
-    background-color: rgb(99, 225, 223);
+    background-color: rgb(121, 126, 222);
 
 }
 .country{
     text-align: center;
-    background-color: rgb(178, 243, 243);
+    background-color: rgb(120, 126, 245);
     padding: 20px;
 }

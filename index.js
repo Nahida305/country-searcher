@@ -17,6 +17,7 @@ function displayCountry(data){
             <p>Capital: ${data[i].capital}</p>
             <p>Population: ${data[i].population}</p>
             <p>Region: ${data[i].region}</p>
+            <p>Subregion: ${data[i].subregion}</p>
             <p>Area: ${data[i].area}</p>
             <p>Currency: ${Object.values(data[i].currencies)[0].name}</p>
         </div>`;
